@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="Responsive.css">
+</head>
+<body>
+    <div class="fullwebsite">
+                  
+        <!--  header section-->
+
+        <div class="header-section clearfix">
+                <div class="header-left">
+            <h1>LFWF Academy</h1> 
+
+                </div>
+                <div class="header-right">
+    <ul>
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">ABOUT</a></li>
+        <li><a href="#">SERVICES</a></li>
+        <li><a href="#">PRODUCT</a></li>
+        <li><a href="#">BLOG</a></li>
+        <li><a href="#">CONTENT</a></li>
+    </ul>
+                </div>
+            
+        </div>
+
+        <!--  benner section-->
+
+        <div class="benner-section">
+            <div class="benner">
+                <h1>WELCOME TO LFWF</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, atque.</p>
+                <a href="#">LEARN MORE </a>
+            </div>
+        </div>
+
+         <!-- service-section-->
+<div class="service-section clearfix">
+    <div class="our-service">
+        <h1> Our services</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque quasi enim similique, et voluptatem dolor.</p>
+    </div>
+    <div class="fix-widht">
+        <div class="service-item">
+            <span><i class="fas fa-tv"></i></span>
+            <h2>Web Design</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae incidunt sunt fugiat.</p>
+        </div>
+        <div class="service-item">
+            <span><i class="fas fa-rocket"></i></span>
+            <h2>Graphic Design</h2>
+            <p>Lorem ipsum dolor sit amet consectetur 
+       adipisicing elit. Repudiandae incidunt sunt fugiat.
+       </p>
+        </div>
+        <div class="service-item">
+            <span><i class="fas fa-tv"></i></span>
+            <h2>App Development</h2>
+            <p>Lorem ipsum dolor sit amet consectetur 
+       adipisicing elit. Repudiandae incidunt sunt fugiat.
+       </p>
+        </div>
+        <div class="service-item">
+            <span><i class="far fa-lightbulb"></i></span>
+            <h2>Digital Marketing</h2>
+            <p>Lorem ipsum dolor sit amet consectetur 
+       adipisicing elit. Repudiandae incidunt sunt fugiat.
+       </p>
+        </div>
+    </div>
+</div>
+
+ <!-- ABOUT-section-->
+    <div class="about-section clearfix">
+     <div class="about-us">
+        <div class="header-about">
+         <h1>About us</h1>
+         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae ducimus voluptatibus, ratione rerum praesentium nemo!</p> 
+        </div>
+         <div class="about-full">
+             <div class="about-left">
+                 <img src="https://i.ibb.co/CBd90wj/about.jpg" alt="image">
+             </div>
+             <div class="about-right">
+            <div class="all-item">
+                <h2>Who We Are</h2>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam aliquid rem voluptatibus! Quos id reprehenderit quo tempore illo possimus debitis nulla! Placeat perspiciatis, quia aliquam labore nesciunt quae, id quas dicta veniam voluptates minus, pariatur possimus! Nisi reprehenderit, corporis blanditiis placeat ducimus tenetur dignissimos illo illum tempore repellendus repellat nemo.</p>
+            </div>
+            <div class="all-item">
+                <h2>Who We Are</h2>
+                <p>Lorem ipsum dolor sit amet consectetur 
+                    adipisicing elit. Aliquam ipsa eligendi, 
+                    exercitationem minima ab laboriosam 
+                    necessitatibus dolor quia, facere est cumque, 
+                    numquam harum. Quisquam enim commodi placeat! 
+                    Pariatur earum atque voluptatum provident 
+                    sapiente ipsum aspernatur quasi perferendis 
+                    adipisci quis laboriosam placeat, exercitationem 
+                    explicabo eligendi libero non deleniti iste 
+                    optio voluptatibus corporis inventore magni 
+                    blanditiis dolores dicta. Officia eos nostrum 
+                    blanditiis ratione odio nemo ipsa consequuntur, 
+                    repellendus et eligendi neque corporis?</p>
+            </div>
+            <div class="all-item">
+                <h2>Who We Are</h2>
+                <p>Lorem ipsum dolor sit amet consectetur 
+          adipisicing elit. Repellat commodi, ipsum hic 
+          aspernatur veritatis magni quod sint laborum 
+          possimus, quae, doloremque error deleniti 
+          autem adipisci?</p>
+            </div>
+             </div>
+         </div>
+     </div>
+    </div>
+    <!--.Contact-Section -->
+
+    <div class="Contact-Section">
+        <div class="contact-us">
+            <div class="header-content">
+               <h1> Contant Us</h1>  
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt reiciendis corrupti earum aut soluta, autem quis quia. Vero, similique omnis.</p>
+            </div>
+            <div class="content-full">
+                <div class="contact-item">
+        <span><i class="fas fa-map-marker"></i></span>
+        <ul>
+            <li>Sector:00,Uttara</li>
+            <li>Dhaka-0000,Bangladesfa</li>
+        </ul>
+                </div>
+                <div class="contact-item">
+                    <span><i class="fas fa-envelope"></i></span>
+                    <ul>
+           <li>info@company.com</li>
+           
+       </ul>
+               </div>
+               <div class="contact-item">
+                   <span><i class="fas fa-phone-alt"></i></span>
+              <ul>
+             <li>+880 1700000000</li>
+              <li>+880 1800000000</li>
+             </ul>    
+          </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="footer-section">
+        <div class="icon-section">
+       <ul>
+           <li> <span><i class="fa-brands fa-facebook-f"></i></span></li>
+
+           <li> <span><i class="fa-brands fa-twitter"></i></span></li>
+
+           <li> <span><i class="fa-brands fa-github"></i></span></li>
+
+           <li> <span><i class="fa-brands fa-instagram"></i></span></li>
+
+           <li> <span><i class="fa-brands fa-linkedin-in"></i></span></li>
+
+       </ul>
+
+        </div>
+    </div>
+
+    </div>
+    
+</body>
+</html>
